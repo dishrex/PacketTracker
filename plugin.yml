@@ -1,0 +1,10 @@
+name: PacketTracker
+main: PacketTracker\PacketTracker
+version: 1.0.0
+api: [1.4.0]
+load:
+author: dishrex
+authors: [dishrex]
+description: Keeps a talley and gives you a report of incomming and outgoing packets for a specific period
+website: https://daviddischer.com
+
